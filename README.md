@@ -4,7 +4,7 @@
 ReadME Generator
 
 ## Description
-This project allows the user to generate a readMe using the command line.
+This allows a user to generate a ReadME from the command line of their terminal.
 
 ## Table of Contents
 * [Install](#installation)
@@ -15,21 +15,21 @@ This project allows the user to generate a readMe using the command line.
 * [Questions](#questions)
 
 ## Installation
-Installing node.js to be able to run the generator and also using inquirer.
+Install inquirer 8.2.4
 
 ## Usage
-This can be used to generate a professional readME by type "node index.js" in the command line.
+Use this to create a professional readME to your projects.
 
 ## License
-The following license was used: [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://www.apache.org/licenses/LICENSE-2.0).
+The following license was used: [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT).
 
 ## Contributions
-If there are any further contributions that need to be added or ideas of any sorts please create a pull request.
+If you would like to add contributions, please fork my repo, make changes and submit them through requests.
 
 ## Tests
-Run a test by using npm test.
+No tests
 
 ## Questions
 - Contact Me for Questions:
-[GitHub](https://github.com/bragonese1)|
-[Email](mailto:ragonesebradley@gmail.com)
+[GitHub](https://github.com/bragonese1) |
+[Email](mailto:bradleyragonese@icloud.com)

@@ -70,7 +70,7 @@ ${data.tests}
 
 ## Questions
 - Contact Me for Questions:
-[GitHub](https://github.com/${data.github})|
+[GitHub](https://github.com/${data.github}) |
 [Email](mailto:${data.email})`;
 
 }
