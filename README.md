@@ -10,6 +10,7 @@ This allows a user to generate a ReadME from the command line of their terminal.
 * [Install](#installation)
 * [Usage](#usage)
 * [License](#license)
+* [Links](#Links)
 * [Contribution](#contributions)
 * [Tests](#tests)
 * [Questions](#questions)
@@ -22,6 +23,10 @@ Use this to create a professional readME to your projects.
 
 ## License
 The following license was used: [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT).
+
+## Links
+* [Github Repo](https://github.com/bragonese1/readme-generator)
+* [Google Drive Video](https://drive.google.com/file/d/1RDFEPOLwG5EiPixm3C3l9YaovIopS-3V/view)
 
 ## Contributions
 If you would like to add contributions, please fork my repo, make changes and submit them through requests.
