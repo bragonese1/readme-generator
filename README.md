@@ -10,7 +10,7 @@ This allows a user to generate a ReadME from the command line of their terminal.
 * [Install](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Links](#Links)
+* [Links](#links)
 * [Contribution](#contributions)
 * [Tests](#tests)
 * [Questions](#questions)

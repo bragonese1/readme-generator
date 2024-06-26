@@ -52,6 +52,7 @@ ${data.description}
 * [Install](#installation)
 * [Usage](#usage)
 * [License](#license)
+* [Links](#links)
 * [Contribution](#contributions)
 * [Tests](#tests)
 * [Questions](#questions)
@@ -64,6 +65,8 @@ ${data.usage}
 
 ## License
 ${renderLicenseSection(data.license)}
+
+## Links
 
 ## Contributions
 ${data.contributing}
