@@ -67,6 +67,7 @@ ${data.usage}
 ${renderLicenseSection(data.license)}
 
 ## Links
+[GitHub Repo](${data.links})
 
 ## Contributions
 ${data.contributing}
@@ -76,8 +77,7 @@ ${data.tests}
 
 ## Questions
 - Contact Me for Questions:
-[GitHub](https://github.com/${data.github}) |
-[Email](mailto:${data.email})`;
+[GitHub](https://github.com/${data.github}) | [Email](mailto:${data.email})`;
 
 }
 

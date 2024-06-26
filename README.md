@@ -1,10 +1,10 @@
-# ReadME Generator
+# README Generator
 
 ## Project Title
-ReadME Generator
+README Generator 
 
 ## Description
-This allows a user to generate a ReadME from the command line of their terminal.
+This project allows a user to generate a professional markdown readme file. Once the README.md file is created it will be saved to the project.
 
 ## Table of Contents
 * [Install](#installation)
@@ -16,25 +16,23 @@ This allows a user to generate a ReadME from the command line of their terminal.
 * [Questions](#questions)
 
 ## Installation
-Install inquirer 8.2.4
+npm i inquirer 8.2.4
 
 ## Usage
-Use this to create a professional readME to your projects.
+The user runs the index.js file. The user is then prompted to answer a series of questions that will be turned into a markdown readme file.
 
 ## License
 The following license was used: [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT).
 
 ## Links
-* [Github Repo](https://github.com/bragonese1/readme-generator)
-* [Google Drive Video](https://drive.google.com/file/d/1RDFEPOLwG5EiPixm3C3l9YaovIopS-3V/view)
+[GitHub Repo](https://github.com/bragonese1/readme-generator) | [Video Walkthrough](https://drive.google.com/file/d/12dAkkiZiADmW61nrCeMGvGJYBGLXGa1S/view)
 
 ## Contributions
-If you would like to add contributions, please fork my repo, make changes and submit them through requests.
+If you would like to contribute, please fork this repo and make a request.
 
 ## Tests
-No tests
+N/A
 
 ## Questions
 - Contact Me for Questions:
-[GitHub](https://github.com/bragonese1) |
-[Email](mailto:bradleyragonese@icloud.com)
+[GitHub](https://github.com/bragonese1) | [Email](mailto:ragonesebradley@gmail.com)
